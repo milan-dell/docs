@@ -1,4 +1,5 @@
----
+Vlastne---je to super
+Bez Vás by to nebolo možné
 title: Setting up and managing your GitHub profile
 shortTitle: Profiles
 redirect_from:
